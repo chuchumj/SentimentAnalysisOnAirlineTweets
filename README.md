@@ -1,4 +1,5 @@
 SENTIMENT ANALYSIS ON AIRLINE TWEETS
+
 Project Overview
  Sentiment analysis has proven to be an effective way to understand people’s opinion or sentiment about a topic of interest, a product or services to mention a few. It could be used in basically in any field ranging from health care to financial industries to marketing. The analysis can be used to judge or predict people sentiment towards a topic, issue, products or services. Sentiment analysis is used here to analyze customers confidence in an airline based on their experience. There were three classes of sentiments for this project which are neutral, positive, negative. Customers opinion are collected and analyzed based on their experience with six different airlines.
 
